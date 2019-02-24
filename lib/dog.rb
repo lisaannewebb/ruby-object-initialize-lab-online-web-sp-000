@@ -19,4 +19,4 @@ class Dog
 end
 
 
-snoopy.
+snoopy=Dog.new 
