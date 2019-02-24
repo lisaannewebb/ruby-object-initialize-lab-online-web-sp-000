@@ -18,6 +18,3 @@ class Dog
   end
 end
 
-
-snoopy=Dog.new("beagle")
-
